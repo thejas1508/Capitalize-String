@@ -1,0 +1,2 @@
+Enter a string: thejas is studying engineering first year. 
+Capitalize string: Thejas Is Studying Engineering First Year.
